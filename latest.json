@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "releasedAt": "2026-09-28",
   "minOneCommeVersion": "9.0.0",
-  "url": "https://github.com/Bansho0000/TanOme_Release/releases/download/v1.0.5/plugin-1.0.5.zip",
-  "sha256": "215eb838cef3b922cd3c60ce115ed9d75c72e5b718398668f6c21a49a2bcaa3a",
-  "size": 55668,
+  "url": "https://github.com/Bansho0000/TanOme_Release/releases/download/v1.0.6/plugin-1.0.6.zip",
+  "sha256": "d5c3065827e449d6daa1dd199234e94eac05a500cf7c2108f7c0b26506d5bc59",
+  "size": 56316,
   "notes": {
-    "ja": "v1.0.5 リリース",
-    "en": "Release v1.0.5"
+    "ja": "v1.0.6 リリース",
+    "en": "Release v1.0.6"
   }
 }
